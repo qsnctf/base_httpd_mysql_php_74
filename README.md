@@ -3,7 +3,7 @@
 Linux环境：Debian\
 Web服务：Apache(httpd)\
 数据库服务：MySQL\
-Web应用：PHP 5.6
+Web应用：PHP 7.4
 
 
 ## 如何使用
